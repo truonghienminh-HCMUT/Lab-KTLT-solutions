@@ -5,4 +5,5 @@ int diagonalProduct(int arr[][1000], int row, int col) {
         sum *= arr[i][i];
     }
     return sum;
-}```
+}
+```
