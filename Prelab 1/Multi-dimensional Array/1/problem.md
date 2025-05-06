@@ -13,7 +13,6 @@ Lưu ý: Cột đầu tiên được đánh chỉ số 0. Nếu có nhiều hơn
 
 Ghi chú: (Các) thư viện `iostream` và `climits` đã được khai báo, và namespace std đã được sử dụng.
 
----
 
 English version:
 
