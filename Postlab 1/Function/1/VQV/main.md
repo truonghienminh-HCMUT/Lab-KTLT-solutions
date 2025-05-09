@@ -1,3 +1,4 @@
+```cpp
 void mostFrequentCharacter(char* str, char& res, int& freq) {
     // Write your code 
     int len=0;
@@ -44,3 +45,4 @@ void mostFrequentCharacter(char* str, char& res, int& freq) {
         }
     }
 }
+```
