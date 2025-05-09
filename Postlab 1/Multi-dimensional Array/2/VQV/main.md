@@ -1,3 +1,4 @@
+```cpp
 int subMatrix(int arr[][1000], int row, int col) {
     int count=0, sum=0;
 for(int i=0; i<row-1; i++){
@@ -10,3 +11,4 @@ for(int i=0; i<row-1; i++){
 }
 return count;
 }
+```
