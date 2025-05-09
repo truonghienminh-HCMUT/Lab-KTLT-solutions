@@ -5,4 +5,4 @@ bool completeNum(int N)
         if (N % i == 0) sum += i;
     }
     return sum == N;
-}
+}   
