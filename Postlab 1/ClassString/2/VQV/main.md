@@ -1,3 +1,4 @@
+```cpp
 bool exist(char temp, string c){
     for( char word: c){
         if (temp==word)
@@ -31,3 +32,4 @@ int main()  {
     cout << longestNonRepeatSubString(s);
     return 0;
 }
+```
