@@ -1,3 +1,4 @@
+```cpp
 bool isPrime(int n) {
     if (n <= 1) return false;
     for (int i = 2; i*i <= n; i++) {
@@ -40,3 +41,4 @@ int specialCells(int arr[][1000], int row, int col) {
     delete[] colSum;
 return count;
 }
+```

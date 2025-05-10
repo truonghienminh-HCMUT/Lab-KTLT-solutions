@@ -1,3 +1,4 @@
+```cpp
 bool sym_sub(string c){
     for(int i=0; i<c.length()/2;i++){
         if(c[i]!=c[c.length()-1-i]){
@@ -22,3 +23,4 @@ int main()  {
     }
     cout<<final<<endl;
 }
+```
