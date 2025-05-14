@@ -1,3 +1,4 @@
+```
 bool isEqual(node *head1, node *head2)
 {
     while (head1) {
@@ -8,3 +9,4 @@ bool isEqual(node *head1, node *head2)
     }
     return true;
 }
+```
