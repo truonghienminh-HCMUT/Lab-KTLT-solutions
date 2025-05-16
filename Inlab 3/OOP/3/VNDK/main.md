@@ -1,4 +1,4 @@
-```
+```cpp
 template <typename T>
 class Array {
 public:

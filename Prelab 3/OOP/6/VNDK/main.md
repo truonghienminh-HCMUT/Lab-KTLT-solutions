@@ -1,4 +1,4 @@
-```
+```cpp
 class Room {
 private:
     double length, breadth, height;

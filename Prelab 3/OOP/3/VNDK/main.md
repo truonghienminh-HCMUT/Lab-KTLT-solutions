@@ -1,4 +1,4 @@
-```
+```cpp
 void ClockType::setTime(int hour, int minute, int second)
 {
     if (hour >= 0 && hour < 24) hr = hour;

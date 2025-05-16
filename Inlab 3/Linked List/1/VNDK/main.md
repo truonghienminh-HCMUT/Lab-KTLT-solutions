@@ -1,4 +1,4 @@
-```
+```cpp
 node *createLinkedList(int n)
 {
   node* head;

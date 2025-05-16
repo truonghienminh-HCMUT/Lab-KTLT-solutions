@@ -1,4 +1,4 @@
-```
+```cpp
 class Integer {
 private:
     int val;

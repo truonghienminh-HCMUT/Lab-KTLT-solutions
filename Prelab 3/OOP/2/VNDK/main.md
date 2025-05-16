@@ -1,4 +1,4 @@
-```
+```cpp
 ClockType::ClockType(int hr, int min, int sec){
     if (hr<0 || hr>=24) hr=0;
     else ClockType::hr=hr;

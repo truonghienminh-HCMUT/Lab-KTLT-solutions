@@ -1,4 +1,4 @@
-```
+```cpp
 template <class T>
 class ColoredCell : public Cell<T> {
 protected:

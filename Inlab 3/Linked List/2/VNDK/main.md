@@ -1,4 +1,4 @@
-```
+```cpp
 node *insertNode(node *head, node *newNode, int position)
 {
   if (position <= 0) return head;

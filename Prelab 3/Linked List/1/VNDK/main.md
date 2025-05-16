@@ -1,4 +1,4 @@
-```
+```cpp
 bool isEqual(node *head1, node *head2)
 {
     while (head1) {
