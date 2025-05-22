@@ -1,4 +1,4 @@
-```
+```cpp
 void replace(node* head, int position, int value)
 {
   if (position<0) return;

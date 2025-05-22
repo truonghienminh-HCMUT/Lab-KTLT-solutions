@@ -1,4 +1,4 @@
-```
+```cpp
 int countNode(node* head)
 {
     for (int i=1; head; i++) {

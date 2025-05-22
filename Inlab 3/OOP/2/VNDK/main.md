@@ -1,4 +1,4 @@
-```
+```cpp
 void ClockType::incrementSeconds() {
    sec++;
    if(sec==60) {
